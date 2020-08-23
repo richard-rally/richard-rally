@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Richards's github stats](https://github-readme-stats.vercel.app/api?username=richard-rally)](https://github.com/Richard-rally/github-readme-stats)
+
 <!--
 **richard-rally/richard-rally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
